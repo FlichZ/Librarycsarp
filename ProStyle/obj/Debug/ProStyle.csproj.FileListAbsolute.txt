@@ -1,0 +1,15 @@
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\ProStyle.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\ProStyle.pdb
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\Ccr.PresentationCore.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\Ccr.Std.Core.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\Ccr.Std.Introspective.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\Ccr.WinCore.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\JetBrains.Annotations.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\bin\Debug\JetBrains.Annotations.xml
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\obj\Debug\ProStyle.csproj.AssemblyReference.cache
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\obj\Debug\ProStyle.csproj.CoreCompileInputs.cache
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\obj\Debug\ProStyle.csproj.CopyComplete
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\obj\Debug\ProStyle.dll
+C:\Users\zubas\source\repos\WpfApp3\ProStyle\obj\Debug\ProStyle.pdb

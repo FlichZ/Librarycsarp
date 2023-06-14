@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3", "WpfApp3\WpfApp3.csproj", "{4CC51294-3427-4E0C-BF50-96E5515B273B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{C12AF2FD-7055-454B-918C-B93D6AC6EEB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProStyle", "ProStyle\ProStyle.csproj", "{1E0A6DA5-F8BE-4762-AF73-2FBA065B60B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC51294-3427-4E0C-BF50-96E5515B273B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC51294-3427-4E0C-BF50-96E5515B273B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC51294-3427-4E0C-BF50-96E5515B273B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC51294-3427-4E0C-BF50-96E5515B273B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12AF2FD-7055-454B-918C-B93D6AC6EEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12AF2FD-7055-454B-918C-B93D6AC6EEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12AF2FD-7055-454B-918C-B93D6AC6EEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12AF2FD-7055-454B-918C-B93D6AC6EEB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0A6DA5-F8BE-4762-AF73-2FBA065B60B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0A6DA5-F8BE-4762-AF73-2FBA065B60B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0A6DA5-F8BE-4762-AF73-2FBA065B60B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0A6DA5-F8BE-4762-AF73-2FBA065B60B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801CFABD-0103-4A48-962F-9C0BBD79A8C3}
+	EndGlobalSection
+EndGlobal

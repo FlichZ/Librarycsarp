@@ -1,0 +1,9 @@
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\zubas\source\repos\WpfApp3\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
